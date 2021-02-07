@@ -111,5 +111,5 @@ $(document).ready(function () {
 });
 
 document.querySelector('#blog-link').addEventListener('click', () => {
-    window.location = 'https://blog.vipuljha.com';
+    window.location = 'https://theritwik.com';
 })
